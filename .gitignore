@@ -1,0 +1,8 @@
+# IDE files
+.idea
+
+# DB files
+db.sqlite3
+
+# Secret files
+.env
